@@ -1,0 +1,102 @@
+gender,age,education,faculty,gpa,study_hours,often_use_of_chatGPT,use_of_chatGPT,use_in_field,reliability_on_tech,productivity,dependency_on_AI,plagiarism,affects_on_thinking
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,11-15 hours,Sometimes (Weekly),"Writing assignments/essays, Research, For brainstorming purposes",5,4,4,4,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Science,1.00-1.99,5-10 hours,Sometimes (Weekly),Writing assignments/essays,3,3,3,4,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,11-15 hours,Rarely (A few times a month),"Research, For brainstorming purposes",4,3,3,4,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,2.00-2.99,0-5 hours,Sometimes (Weekly),"Writing assignments/essays, Learning new concepts, For brainstorming purposes",5,5,4,5,Neutral,Yes
+Male,18-24,Undergraduate,Business,3.00-3.99,0-5 hours,Rarely (A few times a month),"Writing assignments/essays, Learning new concepts, For brainstorming purposes",5,5,4,5,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,0-5 hours,Never,I dont use ChatGPT,5,5,3,5,Agree,Yes
+Male,18-24,Undergraduate,Business,2.00-2.99,0-5 hours,Rarely (A few times a month),Writing assignments/essays,4,4,3,5,Disagree,Maybe
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,Over 20 hours,Rarely (A few times a month),"Research, Learning new concepts",4,1,3,4,Neutral,Maybe
+Male,18-24,Undergraduate,Business,3.00-3.99,Over 20 hours,Often: (Several times a week/daily),"Writing assignments/essays, Research, Learning new concepts, For brainstorming purposes",5,5,4,3,Neutral,Yes
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,11-15 hours,Rarely (A few times a month),"Writing assignments/essays, Learning new concepts",4,2,4,4,Disagree,Yes
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,5-10 hours,Never,I dont use ChatGPT,3,4,3,5,Neutral,Maybe
+Male,Under 18,Undergraduate,Faculty of Science,4.00-4.33,5-10 hours,Never,I dont use ChatGPT,1,2,1,3,Neutral,Maybe
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,11-15 hours,Never,I dont use ChatGPT,1,5,1,5,Strongly Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,16-20 hours,Often: (Several times a week/daily),"Research, Learning new concepts, For brainstorming purposes",5,2,4,4,Agree,No
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,Over 20 hours,Never,I dont use ChatGPT,2,5,3,4,Strongly Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,16-20 hours,Sometimes (Weekly),"Research, Learning new concepts, For brainstorming purposes",4,2,3,5,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,5-10 hours,Never,I dont use ChatGPT,3,4,3,4,Neutral,Maybe
+Male,18-24,Undergraduate,Business,3.00-3.99,16-20 hours,Often: (Several times a week/daily),For brainstorming purposes,4,5,5,4,Disagree,Maybe
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,5-10 hours,Rarely (A few times a month),Writing assignments/essays,3,4,3,4,Agree,Maybe
+Male,18-24,Undergraduate,Business,3.00-3.99,5-10 hours,Rarely (A few times a month),For brainstorming purposes,4,2,2,4,Strongly Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,16-20 hours,Often: (Several times a week/daily),For brainstorming purposes,2,1,3,5,Neutral,Yes
+Male,18-24,Undergraduate,Business,4.00-4.33,Over 20 hours,Often: (Several times a week/daily),"Research, Learning new concepts, For brainstorming purposes",4,5,5,5,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,5-10 hours,Never,I dont use ChatGPT,2,4,1,3,Neutral,Maybe
+Male,18-24,Undergraduate,Business,3.00-3.99,11-15 hours,Often: (Several times a week/daily),"Research, Learning new concepts, For brainstorming purposes",4,4,5,5,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,16-20 hours,Sometimes (Weekly),"Writing assignments/essays, Learning new concepts",5,3,3,4,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,Over 20 hours,Sometimes (Weekly),"Writing assignments/essays, Research",3,3,3,4,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,4.00-4.33,Over 20 hours,Sometimes (Weekly),"Research, Learning new concepts, For brainstorming purposes",3,4,2,5,Disagree,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,5-10 hours,Rarely (A few times a month),"Learning new concepts, For brainstorming purposes",3,5,4,5,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,2.00-2.99,16-20 hours,Rarely (A few times a month),"Learning new concepts, For brainstorming purposes",4,3,2,5,Neutral,Maybe
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,11-15 hours,Sometimes (Weekly),Research,3,3,3,4,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,Over 20 hours,Sometimes (Weekly),"Writing assignments/essays, Research, Learning new concepts, For brainstorming purposes",5,3,4,5,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,4.00-4.33,16-20 hours,Never,I dont use ChatGPT,2,5,2,2,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,Over 20 hours,Never,Writing assignments/essays,1,1,1,3,Agree,Maybe
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,11-15 hours,Never,I dont use ChatGPT,1,4,4,4,Disagree,No
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,11-15 hours,Never,I dont use ChatGPT,1,4,1,5,Neutral,Yes
+Female,18-24,Undergraduate,Faculty of Arts,3.00-3.99,11-15 hours,Never,I dont use ChatGPT,1,4,1,4,Neutral,Maybe
+Female,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,5-10 hours,Rarely (A few times a month),"Writing assignments/essays, Research, Learning new concepts, For brainstorming purposes",3,3,3,5,Disagree,Maybe
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,Over 20 hours,Never,I dont use ChatGPT,3,4,3,4,Neutral,Yes
+Female,18-24,Undergraduate,Business,3.00-3.99,0-5 hours,Never,I dont use ChatGPT,1,4,1,3,Neutral,Maybe
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,5-10 hours,Never,I dont use ChatGPT,1,3,1,1,Agree,Maybe
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,Over 20 hours,Never,I dont use ChatGPT,2,4,3,4,Agree,Yes
+Prefer not to answer,60+,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,0-5 hours,Rarely (A few times a month),Research,4,4,4,4,Agree,No
+Male,18-24,Undergraduate,Faculty of Science,2.00-2.99,11-15 hours,Sometimes (Weekly),"Writing assignments/essays, Research",4,4,2,3,Neutral,Maybe
+Female,25-35,Graduate,Faculty of Engineering and Architecturial Science,2.00-2.99,11-15 hours,Sometimes (Weekly),"Writing assignments/essays, Research, Learning new concepts",4,3,4,5,Disagree,No
+Male,18-24,Undergraduate,Business,2.00-2.99,11-15 hours,Rarely (A few times a month),"Writing assignments/essays, For brainstorming purposes",2,2,3,3,Disagree,Yes
+Female,18-24,Undergraduate,Business,3.00-3.99,16-20 hours,Never,I dont use ChatGPT,2,2,1,2,Agree,Yes
+Female,18-24,Undergraduate,Business,0-0.99,0-5 hours,Sometimes (Weekly),"Writing assignments/essays, Learning new concepts, For brainstorming purposes",2,2,3,3,Neutral,No
+Male,18-24,Graduate,Faculty of Science,3.00-3.99,11-15 hours,Never,I dont use ChatGPT,3,3,4,4,Strongly Disagree,No
+Female,18-24,Undergraduate,Faculty of Law,0-0.99,5-10 hours,Often: (Several times a week/daily),"Writing assignments/essays, Learning new concepts, For brainstorming purposes",4,4,4,1,Strongly Disagree,No
+Male,18-24,Undergraduate,Faculty of Science,2.00-2.99,16-20 hours,Rarely (A few times a month),Research,4,5,3,5,Neutral,Maybe
+Male,Under 18,Undergraduate,Faculty of Science,4.00-4.33,11-15 hours,Sometimes (Weekly),Writing assignments/essays,4,3,4,4,Neutral,Yes
+Female,18-24,Undergraduate,Faculty of Science,1.00-1.99,5-10 hours,Never,I dont use ChatGPT,2,2,2,1,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,0-0.99,16-20 hours,Rarely (A few times a month),"Research, Learning new concepts",3,3,3,2,Agree,No
+Female,18-24,Undergraduate,Faculty of Science,0-0.99,11-15 hours,Rarely (A few times a month),"Writing assignments/essays, Learning new concepts",3,3,4,2,Strongly Disagree,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,5-10 hours,Sometimes (Weekly),Learning new concepts,4,5,4,5,Strongly Agree,Maybe
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,11-15 hours,Rarely (A few times a month),I dont use ChatGPT,3,2,1,5,Strongly Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,11-15 hours,Sometimes (Weekly),"Writing assignments/essays, Learning new concepts, For brainstorming purposes",4,3,4,4,Disagree,Yes
+Female,18-24,Undergraduate,Faculty of Law,3.00-3.99,16-20 hours,Rarely (A few times a month),I dont use ChatGPT,2,1,3,2,Neutral,No
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,5-10 hours,Rarely (A few times a month),"Research, Learning new concepts, For brainstorming purposes",4,5,4,5,Disagree,No
+Male,18-24,Undergraduate,Faculty of Law,2.00-2.99,11-15 hours,Rarely (A few times a month),Research,2,3,3,3,Neutral,Maybe
+Male,25-35,Graduate,Business,3.00-3.99,0-5 hours,Sometimes (Weekly),Research,3,4,3,4,Neutral,Maybe
+Female,18-24,Undergraduate,Creative School,3.00-3.99,16-20 hours,Never,I dont use ChatGPT,1,5,1,5,Neutral,Maybe
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,Over 20 hours,Never,I dont use ChatGPT,2,4,1,3,Agree,Yes
+Female,18-24,Undergraduate,Faculty of Science,4.00-4.33,16-20 hours,Rarely (A few times a month),Learning new concepts,3,2,3,3,Neutral,Maybe
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,Over 20 hours,Never,I dont use ChatGPT,1,1,1,1,Strongly Disagree,No
+Female,18-24,Undergraduate,Faculty of Science,2.00-2.99,5-10 hours,Rarely (A few times a month),Research,3,4,3,4,Neutral,Yes
+Male,18-24,Undergraduate,Business,3.00-3.99,0-5 hours,Sometimes (Weekly),"Writing assignments/essays, Research, Learning new concepts",4,3,4,5,Neutral,Maybe
+Female,18-24,Undergraduate,Business,3.00-3.99,11-15 hours,Rarely (A few times a month),Research,3,2,2,3,Agree,Maybe
+Male,18-24,Undergraduate,Business,3.00-3.99,0-5 hours,Sometimes (Weekly),"Learning new concepts, For brainstorming purposes",4,3,1,4,Disagree,Yes
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,5-10 hours,Never,I dont use ChatGPT,1,5,1,4,Agree,Yes
+Female,18-24,Undergraduate,Business,3.00-3.99,11-15 hours,Often: (Several times a week/daily),"Research, For brainstorming purposes",2,4,4,4,Neutral,No
+Female,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,0-0.99,0-5 hours,Often: (Several times a week/daily),"Writing assignments/essays, Research, Learning new concepts, For brainstorming purposes",5,5,5,5,Strongly Agree,Yes
+Other,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,0-0.99,0-5 hours,Rarely (A few times a month),"Writing assignments/essays, For brainstorming purposes",5,3,5,5,Neutral,Yes
+Female,18-24,Undergraduate,Faculty of Science,3.00-3.99,Over 20 hours,Often: (Several times a week/daily),For brainstorming purposes,4,4,4,4,Strongly Disagree,No
+Male,18-24,Undergraduate,Business,4.00-4.33,5-10 hours,Rarely (A few times a month),Learning new concepts,3,5,2,3,Strongly Disagree,Maybe
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,11-15 hours,Rarely (A few times a month),"Learning new concepts, For brainstorming purposes",4,4,3,5,Neutral,Maybe
+Male,18-24,Undergraduate,Business,3.00-3.99,11-15 hours,Sometimes (Weekly),"Research, For brainstorming purposes",3,5,3,4,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,0-5 hours,Never,I dont use ChatGPT,3,5,2,2,Strongly Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,11-15 hours,Sometimes (Weekly),"Writing assignments/essays, Learning new concepts",4,3,2,5,Neutral,Maybe
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,0-5 hours,Often: (Several times a week/daily),"Research, Learning new concepts, For brainstorming purposes",5,3,4,4,Disagree,Maybe
+Male,18-24,Undergraduate,Faculty of Science,2.00-2.99,16-20 hours,Often: (Several times a week/daily),"Learning new concepts, For brainstorming purposes",3,4,3,4,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Science,2.00-2.99,5-10 hours,Often: (Several times a week/daily),"Writing assignments/essays, Research, Learning new concepts, For brainstorming purposes",4,4,4,5,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,5-10 hours,Rarely (A few times a month),"Writing assignments/essays, Learning new concepts, For brainstorming purposes",4,2,3,4,Neutral,No
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,2.00-2.99,11-15 hours,Sometimes (Weekly),"Writing assignments/essays, Research, For brainstorming purposes",3,3,3,3,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,0-5 hours,Rarely (A few times a month),"Writing assignments/essays, Research, For brainstorming purposes",5,5,5,5,Neutral,Maybe
+Male,18-24,Undergraduate,Faculty of Arts,3.00-3.99,0-5 hours,Rarely (A few times a month),"Writing assignments/essays, Research, Learning new concepts, For brainstorming purposes",5,5,5,5,Neutral,Yes
+Male,25-35,Graduate,Business,3.00-3.99,16-20 hours,Sometimes (Weekly),"Research, Learning new concepts, For brainstorming purposes",5,5,5,5,Strongly Disagree,No
+Female,18-24,Undergraduate,Faculty of Arts,3.00-3.99,Over 20 hours,Sometimes (Weekly),"Writing assignments/essays, Research",4,5,4,4,Neutral,No
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,2.00-2.99,5-10 hours,Rarely (A few times a month),Research,3,4,3,5,Strongly Disagree,Maybe
+Male,18-24,Undergraduate,Creative School,4.00-4.33,5-10 hours,Rarely (A few times a month),For brainstorming purposes,2,4,3,4,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,0-5 hours,Never,I dont use ChatGPT,1,1,1,5,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,4.00-4.33,11-15 hours,Rarely (A few times a month),"Research, For brainstorming purposes",4,2,4,5,Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,5-10 hours,Sometimes (Weekly),"Writing assignments/essays, Research, Learning new concepts, For brainstorming purposes",5,5,5,5,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,5-10 hours,Never,I dont use ChatGPT,2,3,1,4,Agree,Maybe
+Other,18-24,Undergraduate,Faculty of Science,3.00-3.99,5-10 hours,Never,I dont use ChatGPT,4,4,2,3,Strongly Agree,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,11-15 hours,Rarely (A few times a month),"Research, Learning new concepts",4,3,2,4,Disagree,Maybe
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,16-20 hours,Sometimes (Weekly),"Writing assignments/essays, Research",4,4,4,5,Strongly Agree,Yes
+Male,18-24,Undergraduate,Faculty of Science,3.00-3.99,5-10 hours,Rarely (A few times a month),"Writing assignments/essays, Research",4,5,4,2,Agree,Yes
+Female,25-35,Graduate,Faculty of Community services,4.00-4.33,5-10 hours,Sometimes (Weekly),"Learning new concepts, For brainstorming purposes",3,1,3,4,Neutral,Yes
+Male,18-24,Undergraduate,Faculty of Engineering and Architecturial Science,3.00-3.99,11-15 hours,Sometimes (Weekly),"Learning new concepts",4,4,3,4,Disagree,Yes
+Male,18-24,Undergraduate,Faculty of Science,4.00-4.33,11-15 hours,Sometimes (Weekly),"Writing assignments/essays, Learning new concepts, For brainstorming purposes",5,5,5,5,Disagree,Yes
